@@ -26,6 +26,4 @@ I also build software and practical AI tools through **[Despani Technologies](ht
 
 There's some history here too: **[YUIJavaLoader](https://github.com/levancho/YUIJavaLoader)**, a Java port of the YUI PHP Loader, and **[MVCN Framework](https://github.com/levancho/MVCN-Framework)** for Adobe Flex/AIR. Different tools, same curiosity.
 
-Try something, tell me what breaks, or show me a better way to do it. That's the fun part.
-
-<p><a href="https://openai.com/codex/"><img src="astra-terminal.png" alt="with the help of Astra — terminal" width="300"></a> &nbsp; <a href="https://openai.com/codex/"><img src="astra-workshop.png" alt="with the help of Astra — workshop" width="300"></a></p>
+Try something, tell me what breaks, or show me a better way to do it. That's the fun part.<p><a href="https://openai.com/codex/"><img src="astra-workshop.png" alt="with the help of Astra — workshop" width="300"></a></p>
