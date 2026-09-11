@@ -58,4 +58,4 @@ There's some history here too: **[YUIJavaLoader](https://github.com/levancho/YUI
 
 Try something, tell me what breaks, or show me a better way to do it. That's the fun part.
 
-<p align="left"><img src="with-the-help-of-astra.png" alt="with the help of Astra" width="220"></p>
+<p align="left"><a href="https://openai.com/codex/"><img src="with-the-help-of-astra.png" alt="with the help of Astra" width="220"></a></p>
