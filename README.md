@@ -2,7 +2,7 @@
 
 <p align="center"><a href="https://tools.l3v.ai">My tools</a> · <a href="https://toolkit.l3v.ai/">Cinema Toolkit</a> · <a href="https://l3v.ai">L3V</a> · <a href="https://www.youtube.com/@echoramedia">Echora</a></p>
 
-## Hey, I'm levancho
+## Hi, it’s me.
 
 I like figuring out how things work, wiring them together, and seeing what happens. Usually that means writing code, testing an idea, breaking something, then digging through the logs until it makes sense.
 
