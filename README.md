@@ -16,7 +16,7 @@
 Well, this is where I keep my technical tinkerings—things I've worked on over twenty-something years in IT, and whatever I'm messing with now.
 
 
-Lately, that's been a lot of AI. I'm exploring what I can do with it, and it's also got me into things I've always wanted to try, like cinematography and video creation. I'm still very much an amateur at that part, but I'm enjoying making things and learning as I go.
+Lately, that's been a lot of AI. I'm exploring what I can do with it, and thank God, I'm finally getting around to things I've always wanted to try, like cinematography and video creation. I'm still very much an amateur at that part, but I'm enjoying making things and learning as I go.
 
 
 So that's what this page is about: a bit of my IT history, some current projects, and a bunch of experiments. A lot of the newer stuff lives under **L3V**. The tools, cinema toolkit and videos are linked below if you want to have a look.
